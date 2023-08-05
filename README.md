@@ -17,3 +17,4 @@ I learn a lot of stuff related to data science skill. This bootcamp has 10 sprin
 - Essential Python for Data Analyst
 - Dashboard
 
+You can find me on LinkedIn https://www.linkedin.com/in/peratat-phucksachatthaworn-80213b286/
